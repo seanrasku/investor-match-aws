@@ -1,0 +1,46 @@
+.tag-add-container {
+  width: 200px;
+  height: 50px;
+  justify-content: center;
+  background-color: #ffd700;
+  margin-top: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  border: solid 1px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.tag-add-name {
+  font-size: 13;
+  margin-top: 17px;
+  margin-left: 20px;
+  font-family: Helvetica;
+  font-weight: 200;
+  text-align: center;
+}
+
+.tag-connect-container {
+  width: 100px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: #ffd700;
+  height: 27px;
+  margin-top: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 5px;
+  border: solid 1px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.tag-connect-name {
+  font-size: 8;
+  margin-top: 5px;
+  margin-left: 5px;
+  font-family: Helvetica;
+  font-weight: 200;
+  text-align: center;
+}

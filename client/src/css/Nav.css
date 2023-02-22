@@ -1,0 +1,27 @@
+.nav-item {
+  padding: 20px;
+}
+
+.nav-link {
+  padding: 20px;
+  color: black;
+  font-weight: bold;
+}
+
+.dash-nav-container {
+  display: flex;
+  font-size: 23;
+  flex-direction: row;
+  justify-content: center;
+  background-color: aquamarine;
+  border-radius: 7px;
+}
+
+.top-nav-container {
+  display: flex;
+  font-size: 23;
+  flex-direction: row;
+  justify-content: center;
+  background-color: green;
+  border-radius: 7px;
+}

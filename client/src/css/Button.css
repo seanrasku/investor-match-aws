@@ -1,0 +1,33 @@
+.button-primary {
+  margin-left: 50px;
+  margin-top: 45px;
+  background-color: rgba(0, 94, 255, 0.824);
+  padding: 10px;
+  padding-right: 70px;
+  border-radius: 5px;
+  color: #000;
+}
+.logout-button {
+  background-color: rgba(255, 0, 4, 0.824);
+  margin-left: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  margin-top: 5px;
+  margin-right: 10px;
+  border-radius: 5px;
+  color: #000;
+}
+.button-connect {
+  background-color: chartreuse;
+  position: absolute;
+  bottom: 0px;
+
+  margin-bottom: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 40px;
+  padding-right: 40px;
+  border-radius: 5px;
+}
